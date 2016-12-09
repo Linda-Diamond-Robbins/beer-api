@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  names: MyString
+  style: MyString
+  alcohol: MyString
+  ibu: MyString
+
+two:
+  names: MyString
+  style: MyString
+  alcohol: MyString
+  ibu: MyString
